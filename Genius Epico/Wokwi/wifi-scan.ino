@@ -5,8 +5,8 @@
 
 // ── CONFIGURAÇÕES WI-FI E MQTT ─────────────────────────────
 
-const char* WIFI_SSID      = "Gustavo 5G";        // substitua pelo nome da sua rede
-const char* WIFI_PASSWORD  = "250706Gu";        // substitua pela sua senha
+const char* WIFI_SSID     = "Wokwi-GUEST";
+const char* WIFI_PASSWORD = "";            
 
 const char* MQTT_BROKER    = "broker.emqx.io";
 const int   MQTT_PORT      = 1883;               // porta TCP padrão, sem SSL
